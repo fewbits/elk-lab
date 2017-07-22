@@ -12,8 +12,7 @@
 
 Well...
 
-[alt text][well]
-[well]: https://media.tenor.com/images/9112ee31c173e0074d97d36afde8dca0/tenor.gif "Well..."
+![alt text](https://media.tenor.com/images/9112ee31c173e0074d97d36afde8dca0/tenor.gif "Well... obviously")
 
 You need to:
 1. Enter the `elk-lab` repository directory
