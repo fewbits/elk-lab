@@ -12,7 +12,7 @@
 
 Well...
 
-![alt text][well]
+[alt text][well]
 [well]: https://media.tenor.com/images/9112ee31c173e0074d97d36afde8dca0/tenor.gif "Well..."
 
 You need to:
