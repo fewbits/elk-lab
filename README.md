@@ -4,9 +4,9 @@
 
 *ELK* stands for:
 
-- *[E]*lasticsearch: The one that keep
-- *[L]*ogstash: The one that guide
-- *[K]*ibana: The one that show
+[ ] *E*lasticsearch: The one that keep
+[ ] *L*ogstash: The one that guide
+[ ] *K*ibana: The one that show
 
 ## How Do I Use it?
 
