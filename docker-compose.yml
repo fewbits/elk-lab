@@ -3,9 +3,9 @@ services:
   elasticsearch:
     hostname: elasticsearch
     image: elasticsearch:5.5.0
-    volumes:
+#    volumes:
 #     - ./elasticsearch/volumes/config:/usr/share/elasticsearch/config
-     - ./elasticsearch/volumes/data:/usr/share/elasticsearch/data
+#     - ./elasticsearch/volumes/data:/usr/share/elasticsearch/data
     ports:
       - 9200:9200/tcp
       - 9300:9300/tcp
