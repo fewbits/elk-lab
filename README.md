@@ -16,7 +16,7 @@ Before trying to use this lab, make sure you...:
 - Have a functional `docker` environment
 - Have the `docker-compose` command/package installed
 
-## How Do I Use it?
+## How Do I Use It?
 
 Well...
 
@@ -28,3 +28,6 @@ You need to:
 1. Review the `docker-compose.yml` file (change and reflect to your needs)
 1. Run the lab, with the command `docker-compose up`
 
+## Misc.
+
+elasticsearch_1  | [2017-07-25T19:51:02,760][WARN ][o.e.b.BootstrapChecks    ] [a6odiIN] max virtual memory areas vm.max_map_count [65530] is too low, increase to at least [262144]
