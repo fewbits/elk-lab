@@ -18,9 +18,9 @@ Before trying to use this lab, make sure you...:
 
 ## How Do I Use It?
 
-[//]: Well...
-[//]:
-[//]: ![alt text](https://media.tenor.com/images/9112ee31c173e0074d97d36afde8dca0/tenor.gif "Well... obviously")
+<!--Well...
+
+![alt text](https://media.tenor.com/images/9112ee31c173e0074d97d36afde8dca0/tenor.gif "Well... obviously")-->
 
 You need to:
 1. Download this repository (`git clone https://github.com/fewbits/elk-lab.git`)
