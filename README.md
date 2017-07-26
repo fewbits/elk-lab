@@ -23,10 +23,10 @@ Well...
 ![alt text](https://media.tenor.com/images/9112ee31c173e0074d97d36afde8dca0/tenor.gif "Well... obviously")
 
 You need to:
-1. Download this repository
-1. Enter the `elk-lab` directory
-1. Review the `docker-compose.yml` file (change and reflect to your needs)
-1. Run the lab, with the command `docker-compose up -d`
+1. Download this repository (`git clone https://github.com/fewbits/elk-lab.git`
+1. Enter the **elk-lab** directory (`cd elk-lab`)
+1. Review and, if needed, change the **docker-compose.yml** file to reflect to your needs (`vim docker-compose.yml`)
+1. Run the lab (`docker-compose up -d`)
 
 ## What to Consider in *Production*?
 
