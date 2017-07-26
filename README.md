@@ -23,7 +23,7 @@ Well...
 ![alt text](https://media.tenor.com/images/9112ee31c173e0074d97d36afde8dca0/tenor.gif "Well... obviously")
 
 You need to:
-1. Download this repository (`git clone https://github.com/fewbits/elk-lab.git`
+1. Download this repository (`git clone https://github.com/fewbits/elk-lab.git`)
 1. Enter the **elk-lab** directory (`cd elk-lab`)
 1. Review and, if needed, change the **docker-compose.yml** file to reflect to your needs (`vim docker-compose.yml`)
 1. Run the lab (`docker-compose up -d`)
@@ -32,14 +32,14 @@ You need to:
 
 When using **ELK** in *Production*, there are things that must be considered (remember, this is just a lab!):
 
-### Elasticsearch
+#### Elasticsearch
 
 - Value of `vm.max_map_count` (please refer to https://hub.docker.com/_/elasticsearch/)
 
-### Logstash
+#### Logstash
 
 - N/A yet
 
-### Kibana
+#### Kibana
 
 - N/A yet
