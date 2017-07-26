@@ -26,8 +26,20 @@ You need to:
 1. Download this repository
 1. Enter the `elk-lab` directory
 1. Review the `docker-compose.yml` file (change and reflect to your needs)
-1. Run the lab, with the command `docker-compose up`
+1. Run the lab, with the command `docker-compose up -d`
 
-## Misc.
+## What to Consider in *Production*?
 
-elasticsearch_1  | [2017-07-25T19:51:02,760][WARN ][o.e.b.BootstrapChecks    ] [a6odiIN] max virtual memory areas vm.max_map_count [65530] is too low, increase to at least [262144]
+When using **ELK** in *Production*, there are things that must be considered (remember, this is just a lab!):
+
+### Elasticsearch
+
+- Value of `vm.max_map_count` (please refer to https://hub.docker.com/_/elasticsearch/)
+
+### Logstash
+
+- N/A yet
+
+### Kibana
+
+- N/A yet
